@@ -1,2 +1,3 @@
 # ZJU_learn
 Put some note or homework.
+Maybe I should learn how to use git first...
